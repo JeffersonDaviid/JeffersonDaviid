@@ -3,7 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jefferson
+=================================================================================================================================
+
+University student - Full stack web developer
+---------------------------------------------
   
 
 - 🌱 I’m currently learning NEXT JS
