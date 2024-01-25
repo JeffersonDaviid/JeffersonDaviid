@@ -1,10 +1,18 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<style>
+@import url('https://fonts.cdnfonts.com/css/newton-howard-font');
+@import url('src/index.css');
+</style>
+                
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jefferson
-=================================================================================================================================
+<div class="encabezado"> 
+    <span class="tag">
+                < </span>
+                    <span class="autor">HI, I'M JEFFERSON</span>
+                    <span class="tag"> /> </span><br><br>
+
+</div>
+  
+---
 
 University student - Full stack web developer
 ---------------------------------------------
