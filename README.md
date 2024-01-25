@@ -1,8 +1,4 @@
-<style>
-@import url('https://fonts.cdnfonts.com/css/newton-howard-font');
-@import url('src/index.css');
-</style>
-                
+        
 
 <div style="display: flex;
 	justify-content: center;
