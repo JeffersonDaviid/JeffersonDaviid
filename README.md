@@ -4,25 +4,24 @@
 </style>
                 
 
-<div class="encabezado" style="display: flex;
+<div style="display: flex;
 	justify-content: center;
 	align-items: baseline;
 	margin: 40px 0;
-   user-select: none;"> 
-    <span class="tag" style="	font-size: 3rem;
-	color: #ffa200;
-	font-family: Lucida Handwriting;
-	text-shadow: 3px 0 3px #000, 0 0 5px #ffa200, 0 0 10px #ffa200, 0 0 20px #ffa200;">
-                < </span>
-                    <span class="autor" style="	color: #00b4ff;
-	font-size: 4rem;
-	font-family: Newton Howard Font;
-	letter-spacing: 3px;
-	text-shadow: 3px 2px 3px #000, 0 0 5px #00b4ff, 0 0 10px #00b4ff, 0 0 20px #00b4ff;">HI, I'M JEFFERSON</span>
-                    <span class="tag" style="	font-size: 3rem;
-	color: #ffa200;
-	font-family: Lucida Handwriting;
-	text-shadow: 3px 0 3px #000, 0 0 5px #ffa200, 0 0 10px #ffa200, 0 0 20px #ffa200;"> /> </span><br><br>
+   	user-select: none;"> 
+    <span style="font-size: 3rem;
+		color: #ffa200;
+		font-family: Lucida Handwriting;
+		text-shadow: 3px 0 3px #000, 0 0 5px #ffa200, 0 0 10px #ffa200, 0 0 20px #ffa200;"> < </span>
+                    <span style="color: #00b4ff;
+				font-size: 4rem;
+				font-family: Newton Howard Font;
+				letter-spacing: 3px;
+				text-shadow: 3px 2px 3px #000, 0 0 5px #00b4ff, 0 0 10px #00b4ff, 0 0 20px #00b4ff;">HI, I'M JEFFERSON</span>
+	<span style="font-size: 3rem;
+		color: #ffa200;
+		font-family: Lucida Handwriting;
+		text-shadow: 3px 0 3px #000, 0 0 5px #ffa200, 0 0 10px #ffa200, 0 0 20px #ffa200;"> /> </span><br>
 
 </div>
   
