@@ -2,15 +2,6 @@
 
 University student - Full stack web developer
 ---
-  
-
-- 🌱 I’m currently learning NEXT JS
-  
-- ⚡ I'm secretly Spiderman... but don't tell anyone🤫
-  
-
-<br/>  
-
 
 ## My Skill Set  
 
