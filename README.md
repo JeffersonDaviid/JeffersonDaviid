@@ -11,7 +11,7 @@
 I’m a Software Engineering student at Universidad National Polytechnic School, passionate about web development. I enjoy building intuitive interfaces and robust APIs, combining good UX/UI practices with scalable backend architectures.
 
 - 💼 **Looking for**: Internships or freelance projects  
-- 🌱 **Currently learning**: Microservices architecture
+- 🌱 **Currently learning**: Microservices and Hexagonal architecture
 
 ---
 
@@ -31,12 +31,20 @@ I’m a Software Engineering student at Universidad National Polytechnic School,
 
 ## 📂 Featured Projects
 
-| Project                   | Description                                               | Technologies                      | Link                                              |
-|--------------------------|-----------------------------------------------------------|-----------------------------------|---------------------------------------------------|
-| **Personal Portfolio**    | Website to showcase my professional work.                 | Next.js, Tailwind CSS, Vercel     | [View repo](https://github.com/JeffersonDaviid/portfolio) |
-| **Django E-commerce**     | Online store platform with cart and payment integration.  | Django, PostgreSQL, Stripe        | [View repo](https://github.com/JeffersonDaviid/shop-django) |
-| **Real-Time Chat App**    | Chat app using WebSocket and JWT authentication.          | Node.js, Express, Socket.io, MongoDB | [View repo](https://github.com/JeffersonDaviid/realtime-chat) |
-| **Users REST API**        | User CRUD with validation and access control.             | C#, .NET 6, Entity Framework Core | [View repo](https://github.com/JeffersonDaviid/users-api) |
+| Project                       | Description                                                                          | Technologies                                             | Link                                                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **EduSoft Language**          | Proyecto de usabilidad y accesibilidad web (WCAG 2.0).                                | React, WCAG guidelines, HTML5, CSS3                      | [Repo](https://github.com/JeffersonDaviid/EduSoft-Language)                                          |
+| **SCRUM & CI/CD Pipeline**    | Proyecto SCRUM, CI/CD, SonarQube y TDD.                  | Azure DevOps, YAML, SonarQube, Git, Unit Testing         | [Repo](https://dev.azure.com/Xelan/GR06-ISWD622-25A/_git/GR06-ISWD622-25A)                            |
+| **Color Game**                | Proyecto académico: Juego para Alzheimer con enfoque en calidad ISO 27001.                               | JavaScript, HTML5, CSS3, ISO 27001                       | [Repo](https://github.com/JeffersonDaviid/Color-Game)                                                |
+| **Wallet**               | Proyecto académico con herramienta de evolución de software y estándares de código.                         | JavaScript, ESLint, Prettier, CI                         | [Repo](https://github.com/JeffersonDaviid/CE-Proyecto)                                               |
+| **Citas Médicas**             | Proyecto académico: Sistema de gestión de citas médicas con Angular y MongoDB.                           | Angular, TypeScript, MongoDB                             | [Repo](https://github.com/JeffersonDaviid/Citas-medicas)                                             |
+| **Agro Healthy**              | Proyecto académico: Plataforma web con microservicios e IA para monitoreo de salud de cultivos. Modelo entrendado en Google Colab         | Python, Flask, Docker, TensorFlow, REST                  | [Repo](https://github.com/JeffersonDaviid/Agro-Healthy)                                               |
+| **Banderas de América**       | Prácticas en IGM - Ecuador, juego educativo colaborativo con equipo de diseño de IGM Ecuador.                    | HTML5, CSS3, JavaScript                                  | [Repo](https://github.com/JeffersonDaviid/Banderas-de-America)                                        |
+| **Latam Puzzle**              | Prácticas en IGM Ecuador, juego educativo de rompecabezas enfocado en banderas latinoamericanas.               | HTML5, CSS3, JavaScript                                  | [Repo](https://github.com/JeffersonDaviid/Latam-Puzzle)                                               |
+| **Astro Explorers**           | Prácticas en IGM Ecuador, juego educativo de exploración espacial.         | HTML5, CSS3, JavaScript                                  | [Repo](https://github.com/JeffersonDaviid/Astro-Explorers)                                           |
+| **Courier**               | Proyecto académico: Patrones de diseño y buenas prácticas de arquitectura de software.       | Java, POO, UML                                           | [Repo](https://github.com/JeffersonDaviid/Courier-EPN)                                               |
+| **Movie Market**              | Proyecto académico: Base de datos distribuidas con Oracle para gestión de catálogo y transacciones.      | Oracle Database, PL/SQL                                  | [Repo](https://github.com/JeffersonDaviid/MOVIE-MARKET)                                               |
+
 
 > 🔗 To see all my projects, visit my [GitHub](https://github.com/JeffersonDaviid).
 
