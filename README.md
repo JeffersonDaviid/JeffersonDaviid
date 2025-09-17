@@ -1,8 +1,9 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="👋" width="50"/>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="👋" width="150"/>
   <h1 align="center">Hi, I’m Jefferson 👋</h1>
   <p align="center">Software Engineering Student & Web Developer</p>
+  <p align="center">🔗<a href="https://portfolio-lake-chi-86.vercel.app/" target="_blank">PORTFOLIO</a> </p>
 </p>
 
 ---
@@ -46,7 +47,6 @@ I’m a Software Engineering student at Universidad National Polytechnic School,
 | **Movie Market**              | Proyecto académico: Base de datos distribuidas con Oracle para gestión de catálogo y transacciones.      | Oracle Database, PL/SQL                                  | [Repo](https://github.com/JeffersonDaviid/MOVIE-MARKET)                                               |
 
 
-> 🔗 To see all my projects, visit my [GitHub](https://github.com/JeffersonDaviid).
 
 ---
 
